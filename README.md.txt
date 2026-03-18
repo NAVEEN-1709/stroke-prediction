@@ -33,6 +33,12 @@ The model achieved balanced performance using precision, recall, and F1-score.
 - Handling imbalanced datasets
 - Importance of preprocessing
 - Model evaluation beyond accuracy
+## 📊 Models Used
+- Random Forest
+- Logistic Regression
+- Decision Tree
 
+## 📈 Model Comparison
+Compared multiple models to select the best-performing one based on evaluation metrics.
 ## 🔗 Author
 Naveen Kumar
