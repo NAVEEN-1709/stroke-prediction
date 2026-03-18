@@ -1,24 +1,38 @@
-# 🧠 Cerebral Stroke Prediction using Machine Learning
+# 🧠 Stroke Prediction using Machine Learning
 
 ## 📌 Overview
 This project predicts the likelihood of a stroke using machine learning techniques based on healthcare data.
 
 ## 🚀 Features
-- Data preprocessing and cleaning
-- Handling missing values
+- Data cleaning and preprocessing
+- Handling missing values (BMI)
 - Encoding categorical variables
 - Model training using Random Forest
-- Evaluation using accuracy, precision, recall, and F1-score
+- Model evaluation using precision, recall, F1-score
 
 ## 🛠️ Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
+- Matplotlib, Seaborn
 
 ## 📊 Dataset
-Healthcare dataset containing patient information such as age, BMI, glucose level, and medical history.
+Kaggle Stroke Prediction Dataset
 
-## ⚙️ How to Run
-```bash
-pip install -r requirements.txt
-python src/model.py
+## ⚙️ Steps Performed
+1. Data Cleaning
+2. Feature Engineering
+3. Train-Test Split
+4. Model Training
+5. Evaluation
+
+## 📈 Results
+The model achieved balanced performance using precision, recall, and F1-score.
+
+## 📚 Key Learnings
+- Handling imbalanced datasets
+- Importance of preprocessing
+- Model evaluation beyond accuracy
+
+## 🔗 Author
+Naveen Kumar
